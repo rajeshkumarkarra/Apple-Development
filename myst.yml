@@ -29,5 +29,5 @@ site:
   template: book-theme
 
 options:
-  favicon: Swift_logo_horz_lockup_white_rgb.svg
-  logo: Swift_logo_horz_lockup_color_rgb.svg
+  favicon: Swift_logo_horz_lockup_white_rgb.png
+  logo: Swift_logo_horz_lockup_color_rgb.png
