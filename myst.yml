@@ -27,3 +27,7 @@ project:
     - file: README.md
 site:
   template: book-theme
+
+options:
+  favicon: Swift_logo_horz_lockup_white_rgb.svg
+  logo: Swift_logo_horz_lockup_color_rgb.svg
