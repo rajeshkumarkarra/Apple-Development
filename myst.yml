@@ -6,7 +6,7 @@ project:
     - format: pdf
       template: lapreprint-typst
       articles:
-        - file: intro.md
+        #- file: 
   id: 950c4a07-a23b-443c-a513-1711fc05246b
   references:
     guide:
@@ -29,5 +29,5 @@ site:
   template: book-theme
 
 options:
-  favicon: Swift_logo_horz_lockup_white_rgb.png
-  logo: Swift_logo_horz_lockup_color_rgb.png
+  favicon: images/Swift_logo_horz_lockup_white_rgb.png
+  logo: images/Swift_logo_horz_lockup_color_rgb.png
